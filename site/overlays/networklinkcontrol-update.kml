@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<NetworkLinkControl>
+  <Update>
+    <targetHref>http://thisoldmac.cuit.columbia.edu/~john/pulaskistproject/overlays/nyct2000-base.kmz</targetHref>
+    <Change>
+      <Placemark targetId="CT40001">
+        <name>Name changed by Update Change</name>
+        <!-- coordinates remain the same -->
+      </Placemark>
+    </Change>
+  </Update>
+</NetworkLinkControl>
+</kml>

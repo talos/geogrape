@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<NetworkLink>
+  <name>Link to nyct2000-base.kmz</name>
+  <Link>
+    <href>http://thisoldmac.cuit.columbia.edu/~john/pulaskistproject/overlays/nyct2000-base.kmz</href>
+  </Link>
+</NetworkLink>
+</kml>
