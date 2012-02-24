@@ -1,0 +1,568 @@
+<perldata>
+ <hashref memory_address="0x18fc218">
+  <item key="00802038">
+   <arrayref memory_address="0x1977768">
+    <item key="0">  mortgage by green%bank </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;green%bank&quot;]},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="03682053">
+   <arrayref memory_address="0x197b8d0">
+    <item key="0">  mortgage by dollar%sav </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;dollar%sav&quot;]},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="06222562">
+   <arrayref memory_address="0x197b948">
+    <item key="0">  purchase to either gmdc, or green%manuf%design </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;gmdc&quot;,&quot;green%manuf%design&quot;]},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="07e92c04">
+   <arrayref memory_address="0x1970d44">
+    <item key="0">  mortgage , then   abandonment  within 8 years</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[0,&quot;2920&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;abandonment&quot;}],&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="118a1ced">
+   <arrayref memory_address="0x1970dbc">
+    <item key="0">  mortgage by --- </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;---&quot;]},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="12212c25">
+   <arrayref memory_address="0x1970e34">
+    <item key="0">  mortgage , then   foreclosure  within 4 years</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[1,&quot;1460&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;foreclosure&quot;}],&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="128b2c26">
+   <arrayref memory_address="0x1970eac">
+    <item key="0">  mortgage , then   foreclosure  within 6 years</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[1,&quot;2190&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;foreclosure&quot;}],&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="13da2c2e">
+   <arrayref memory_address="0x1970f24">
+    <item key="0">  purchase , then   foreclosure  within 5 years</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[0,&quot;1825&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;foreclosure&quot;}],&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="1b462043">
+   <arrayref memory_address="0x1970f9c">
+    <item key="0">  purchase to either rockrose, or  </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;rockrose&quot;,&quot;&quot;]},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="1f8f25f2">
+   <arrayref memory_address="0x1993030">
+    <item key="0">  mortgage , then   mortgage </item>
+    <item key="1">{&quot;then&quot;:[{&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}],&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="26292a3b">
+   <arrayref memory_address="0x19930a8">
+    <item key="0">  purchase , then   mortgage  on same day</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[0,&quot;0&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}],&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="27b720d3">
+   <arrayref memory_address="0x1993120">
+    <item key="0">  mortgage by katz%robert </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;katz%robert&quot;]},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="27e62c5e">
+   <arrayref memory_address="0x1993198">
+    <item key="0">  mortgage  on properties with Dollars per month count by, then   foreclosure  within 1 years</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[1,&quot;365&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;foreclosure&quot;}],&quot;dataType&quot;:&quot;sumDollar&quot;,&quot;lotValues&quot;:{},&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="282e2110">
+   <arrayref memory_address="0x1993210">
+    <item key="0">  foreclosure to emigrant </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;emigrant&quot;]},&quot;type&quot;:&quot;foreclosure&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="2b031d1a">
+   <arrayref memory_address="0x1993288">
+    <item key="0">  mortgage by ---- </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;----&quot;]},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="2b2c1f2b">
+   <arrayref memory_address="0x1993300">
+    <item key="0">  purchase from ----------- </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;from&quot;:[&quot;list&quot;,&quot;-----------&quot;]},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="2b9e2fc2">
+   <arrayref memory_address="0x1993378">
+    <item key="0">  mortgage  on properties with All Manufacturing zoning, then   foreclosure  within 12 years</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[1,&quot;4380&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;foreclosure&quot;}],&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:{&quot;zoning&quot;:[&quot;M&quot;]},&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="2c642f44">
+   <arrayref memory_address="0x19933f0">
+    <item key="0">  purchase  on properties with 1 to 4 Units residential units, then   mortgage  on same day</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[0,&quot;0&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}],&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:{&quot;unitsres&quot;:[&quot;1&quot;,&quot;4&quot;]},&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="2fc9266a">
+   <arrayref memory_address="0x1993468">
+    <item key="0">  purchase to rockrose development corp </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;rockrose development corp&quot;]},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="358c17dd">
+   <arrayref memory_address="0x19934e0">
+    <item key="0">  mortgage </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="359f17e2">
+   <arrayref memory_address="0x1993558">
+    <item key="0">  purchase </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="3cb42630">
+   <arrayref memory_address="0x19935d0">
+    <item key="0">  mortgage by either mers, or mortgage%electronic </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;mers&quot;,&quot;mortgage%electronic&quot;]},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="3e871d9a">
+   <arrayref memory_address="0x1993648">
+    <item key="0">  mortgage  on properties with Greater than 4 Units residential units</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:{&quot;unitsres&quot;:[&quot;5&quot;,&quot;9999&quot;]},&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="42332c8b">
+   <arrayref memory_address="0x19936c0">
+    <item key="0">  mortgage  on properties with Dollars per month count by, then   foreclosure  within 4 years</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[1,&quot;1460&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;foreclosure&quot;}],&quot;dataType&quot;:&quot;sumDollar&quot;,&quot;lotValues&quot;:{},&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="43a02a74">
+   <arrayref memory_address="0x1993738">
+    <item key="0">  purchase , then   purchase  within 1 months</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[1,&quot;30&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}],&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="43bd1e1d">
+   <arrayref memory_address="0x19937b0">
+    <item key="0">  mortgage by mers </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;mers&quot;]},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="446f1e15">
+   <arrayref memory_address="0x1998c48">
+    <item key="0">  foreclosure  on properties with One number of buildings</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:{&quot;numbldgs&quot;:[&quot;1&quot;,&quot;1&quot;]},&quot;values&quot;:{},&quot;type&quot;:&quot;foreclosure&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="49682cb2">
+   <arrayref memory_address="0x1998cc0">
+    <item key="0">  mortgage , then   mortgageresale  on same day</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[0,&quot;0&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;mortgageresale&quot;}],&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="4b372608">
+   <arrayref memory_address="0x1998d38">
+    <item key="0">  purchase from columbia%univ  on properties with All Manufacturing zoning</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:{&quot;zoning&quot;:[&quot;M&quot;]},&quot;values&quot;:{&quot;from&quot;:[&quot;list&quot;,&quot;columbia%univ&quot;]},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="4b5a1e39">
+   <arrayref memory_address="0x1998db0">
+    <item key="0">  foreclosure  on properties with 1 to 4 Units residential units</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:{&quot;unitsres&quot;:[&quot;1&quot;,&quot;4&quot;]},&quot;values&quot;:{},&quot;type&quot;:&quot;foreclosure&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="4ddd2f7d">
+   <arrayref memory_address="0x1998e28">
+    <item key="0">  purchase  on properties with 1 to 4 Units residential units, then   purchase  within 1 months</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[1,&quot;30&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}],&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:{&quot;unitsres&quot;:[&quot;1&quot;,&quot;4&quot;]},&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="51561843">
+   <arrayref memory_address="0x1998ea0">
+    <item key="0">  mortgage  on properties with Dollars per month count by</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumDollar&quot;,&quot;lotValues&quot;:{},&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="51691848">
+   <arrayref memory_address="0x1998f18">
+    <item key="0">  purchase  on properties with Dollars per month count by</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumDollar&quot;,&quot;lotValues&quot;:{},&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="585b1b6c">
+   <arrayref memory_address="0x1998f90">
+    <item key="0">  mortgage  on properties with All Commercial zoning</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:{&quot;zoning&quot;:[&quot;C&quot;]},&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="586e1b71">
+   <arrayref memory_address="0x1995024">
+    <item key="0">  purchase  on properties with All Commercial zoning</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:{&quot;zoning&quot;:[&quot;C&quot;]},&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="59b91b76">
+   <arrayref memory_address="0x199509c">
+    <item key="0">  mortgage  on properties with All Manufacturing zoning</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:{&quot;zoning&quot;:[&quot;M&quot;]},&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="59cc1b7b">
+   <arrayref memory_address="0x1995114">
+    <item key="0">  purchase  on properties with All Manufacturing zoning</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:{&quot;zoning&quot;:[&quot;M&quot;]},&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="5a681b7b">
+   <arrayref memory_address="0x199518c">
+    <item key="0">  mortgage  on properties with All Residential zoning</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:{&quot;zoning&quot;:[&quot;R&quot;]},&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="5a7b1b80">
+   <arrayref memory_address="0x1995204">
+    <item key="0">  purchase  on properties with All Residential zoning</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:{&quot;zoning&quot;:[&quot;R&quot;]},&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="5f3e27a6">
+   <arrayref memory_address="0x199527c">
+    <item key="0">  mortgage by bank of america  on properties with Greater than 4 Units residential units</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:{&quot;unitsres&quot;:[&quot;5&quot;,&quot;9999&quot;]},&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;bank of america&quot;]},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="5f992aa1">
+   <arrayref memory_address="0x19952f4">
+    <item key="0">  mortgage , then   mortgage  within 2 years</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[1,&quot;730&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}],&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="60821e69">
+   <arrayref memory_address="0x199536c">
+    <item key="0">  purchase to bdlak </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;bdlak&quot;]},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="62af2aaf">
+   <arrayref memory_address="0x19953e4">
+    <item key="0">  purchase , then   purchase  within 1 years</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[1,&quot;365&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}],&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="65741e98">
+   <arrayref memory_address="0x199545c">
+    <item key="0">  mortgage by durst </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;durst&quot;]},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="65871e9d">
+   <arrayref memory_address="0x19954d4">
+    <item key="0">  purchase to durst </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;durst&quot;]},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="65873ebf">
+   <arrayref memory_address="0x199554c">
+    <item key="0">  foreclosure , then   purchase  within 6 months, then   purchase  within 6 months</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[0,&quot;180&quot;],&quot;then&quot;:[{&quot;after&quot;:[1,&quot;180&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}],&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}],&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;foreclosure&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="67122ce7">
+   <arrayref memory_address="0x19955c4">
+    <item key="0">  mortgage , then   mortgageresale  within 2 weeks</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[0,&quot;14&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;mortgageresale&quot;}],&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="6b831e40">
+   <arrayref memory_address="0x199563c">
+    <item key="0">  foreclosure to --- </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;---&quot;]},&quot;type&quot;:&quot;foreclosure&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="6d06219e">
+   <arrayref memory_address="0x19956b4">
+    <item key="0">  purchase to columbia%univ </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;columbia%univ&quot;]},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="6fda21b2">
+   <arrayref memory_address="0x199572c">
+    <item key="0">  purchase to spitzer%engin </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;spitzer%engin&quot;]},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="71122fb8">
+   <arrayref memory_address="0x19957a4">
+    <item key="0">  purchase  on properties with 1 to 4 Units residential units, then   purchase  within 1 years</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[1,&quot;365&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}],&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:{&quot;unitsres&quot;:[&quot;1&quot;,&quot;4&quot;]},&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="78743ebb">
+   <arrayref memory_address="0x199581c">
+    <item key="0">  mortgage , then   foreclosure  within 2 years, then   purchase  within 6 months</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[1,&quot;730&quot;],&quot;then&quot;:[{&quot;after&quot;:[0,&quot;180&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}],&quot;values&quot;:{},&quot;type&quot;:&quot;foreclosure&quot;}],&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="7d092d1f">
+   <arrayref memory_address="0x1995894">
+    <item key="0">  mortgage  on properties with Dollars per month count by, then   mortgageresale  within 7 days</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[0,&quot;7&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;mortgageresale&quot;}],&quot;dataType&quot;:&quot;sumDollar&quot;,&quot;lotValues&quot;:{},&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="7eda190e">
+   <arrayref memory_address="0x199590c">
+    <item key="0">  abandonment , then   mortgage </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;abandonment&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="801f1f03">
+   <arrayref memory_address="0x1995984">
+    <item key="0">  foreclosure to nyc </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;nyc&quot;]},&quot;type&quot;:&quot;foreclosure&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="80461f05">
+   <arrayref memory_address="0x19959fc">
+    <item key="0">  foreclosure to lpp </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;lpp&quot;]},&quot;type&quot;:&quot;foreclosure&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="80551930">
+   <arrayref memory_address="0x1995a74">
+    <item key="0">  foreclosure </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;foreclosure&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="85831e6d">
+   <arrayref memory_address="0x1995aec">
+    <item key="0">  foreclosure to ---- </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;----&quot;]},&quot;type&quot;:&quot;foreclosure&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="918e21f4">
+   <arrayref memory_address="0x1995b64">
+    <item key="0">  purchase from royal%baking </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;from&quot;:[&quot;list&quot;,&quot;royal%baking&quot;]},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="9397652f">
+   <arrayref memory_address="0x1995bdc">
+    <item key="0">  foreclosure , then   purchase  within 6 months, then   purchase  within 6 months, then   mortgage  on same day, then   foreclosure  within 2 years</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[0,&quot;180&quot;],&quot;then&quot;:[{&quot;after&quot;:[1,&quot;180&quot;],&quot;then&quot;:[{&quot;after&quot;:[0,&quot;0&quot;],&quot;then&quot;:[{&quot;after&quot;:[1,&quot;730&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;foreclosure&quot;}],&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}],&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}],&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}],&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;foreclosure&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="97e62d4d">
+   <arrayref memory_address="0x1995c54">
+    <item key="0">  mortgage  on properties with Dollars per month count by, then   mortgageresale  within 2 weeks</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[0,&quot;14&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;mortgageresale&quot;}],&quot;dataType&quot;:&quot;sumDollar&quot;,&quot;lotValues&quot;:{},&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="9a871eed">
+   <arrayref memory_address="0x1995ccc">
+    <item key="0">  foreclosure  on properties with Greater than 4 Units residential units</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:{&quot;unitsres&quot;:[&quot;5&quot;,&quot;9999&quot;]},&quot;values&quot;:{},&quot;type&quot;:&quot;foreclosure&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="a34a2637">
+   <arrayref memory_address="0x1995d44">
+    <item key="0">  mortgage by either mers, m%e%r%s, or mortgage%elec </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;mers&quot;,&quot;m%e%r%s&quot;,&quot;mortgage%elec&quot;]},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="a4211f51">
+   <arrayref memory_address="0x1995dbc">
+    <item key="0">  purchase to vantage </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;vantage&quot;]},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="a5601f5f">
+   <arrayref memory_address="0x1995e34">
+    <item key="0">  purchase to saltini </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;saltini&quot;]},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="a839511b">
+   <arrayref memory_address="0x1995eac">
+    <item key="0">  mortgage , then   foreclosure  within 2 years, then   purchase  within 6 months, then   mortgage  within 7 days</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[1,&quot;730&quot;],&quot;then&quot;:[{&quot;after&quot;:[0,&quot;180&quot;],&quot;then&quot;:[{&quot;after&quot;:[0,&quot;7&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}],&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}],&quot;values&quot;:{},&quot;type&quot;:&quot;foreclosure&quot;}],&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="a8531f7c">
+   <arrayref memory_address="0x1995f24">
+    <item key="0">  purchase to spitzer </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;spitzer&quot;]},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="af4d1cc9">
+   <arrayref memory_address="0x1995f9c">
+    <item key="0">  foreclosure  on properties with All Manufacturing zoning</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:{&quot;zoning&quot;:[&quot;M&quot;]},&quot;values&quot;:{},&quot;type&quot;:&quot;foreclosure&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="b00b1cce">
+   <arrayref memory_address="0x19355e0">
+    <item key="0">  foreclosure  on properties with All Residential zoning</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:{&quot;zoning&quot;:[&quot;R&quot;]},&quot;values&quot;:{},&quot;type&quot;:&quot;foreclosure&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="b3e6265a">
+   <arrayref memory_address="0x19a0030">
+    <item key="0">  mortgage by either hpd, housing%pres%dev, or h.p.d </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;hpd&quot;,&quot;housing%pres%dev&quot;,&quot;h.p.d&quot;]},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="b7201c9f">
+   <arrayref memory_address="0x19a00a8">
+    <item key="0">  mortgage  on properties with Dollars per month count by and All Manufacturing zoning</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumDollar&quot;,&quot;lotValues&quot;:{&quot;zoning&quot;:[&quot;M&quot;]},&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="b748274d">
+   <arrayref memory_address="0x19a0120">
+    <item key="0">  purchase to either peter%saltini, or saltini%peter </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;peter%saltini&quot;,&quot;saltini%peter&quot;]},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="b774226f">
+   <arrayref memory_address="0x19a0198">
+    <item key="0">  purchase from columbia%univ </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;from&quot;:[&quot;list&quot;,&quot;columbia%univ&quot;]},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="b7cf1ca4">
+   <arrayref memory_address="0x19a0210">
+    <item key="0">  mortgage  on properties with Dollars per month count by and All Residential zoning</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumDollar&quot;,&quot;lotValues&quot;:{&quot;zoning&quot;:[&quot;R&quot;]},&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="b7e21ca9">
+   <arrayref memory_address="0x19a0288">
+    <item key="0">  purchase  on properties with Dollars per month count by and All Residential zoning</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumDollar&quot;,&quot;lotValues&quot;:{&quot;zoning&quot;:[&quot;R&quot;]},&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="be2623cc">
+   <arrayref memory_address="0x19a0300">
+    <item key="0">  mortgage by citi  on properties with Greater than 4 Units residential units</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:{&quot;unitsres&quot;:[&quot;5&quot;,&quot;9999&quot;]},&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;citi&quot;]},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="c39e1fa1">
+   <arrayref memory_address="0x19a0360">
+    <item key="0">  purchase to spitzer% </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;spitzer%&quot;]},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="c5b61fbd">
+   <arrayref memory_address="0x19a039c">
+    <item key="0">  mortgage by emigrant </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;emigrant&quot;]},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="c64b1ffb">
+   <arrayref memory_address="0x19a03d8">
+    <item key="0">  foreclosure to trust </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;trust&quot;]},&quot;type&quot;:&quot;foreclosure&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="c7ca1fd3">
+   <arrayref memory_address="0x19a0c30">
+    <item key="0">  purchase to rockrose </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;rockrose&quot;]},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="cec91a59">
+   <arrayref memory_address="0x19a0c6c">
+    <item key="0">  mortgageresale </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;mortgageresale&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="d4911ef4">
+   <arrayref memory_address="0x19a0ca8">
+    <item key="0">  foreclosure to ------- </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;-------&quot;]},&quot;type&quot;:&quot;foreclosure&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="d6db2862">
+   <arrayref memory_address="0x19a0ce4">
+    <item key="0">  mortgageresale to rockrose constructinect </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;rockrose constructinect&quot;]},&quot;type&quot;:&quot;mortgageresale&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="e26d2251">
+   <arrayref memory_address="0x19a0d20">
+    <item key="0">  mortgage by either green%bank, or citi </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;green%bank&quot;,&quot;citi&quot;]},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="e3492bf7">
+   <arrayref memory_address="0x19a0d5c">
+    <item key="0">  foreclosure , then   purchase  within 6 months</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[0,&quot;180&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}],&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;foreclosure&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="e37c29af">
+   <arrayref memory_address="0x19a0d98">
+    <item key="0">  mortgage by either mers, m_e_r_s, or mortgage%elec%system </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;mers&quot;,&quot;m_e_r_s&quot;,&quot;mortgage%elec%system&quot;]},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="ea382749">
+   <arrayref memory_address="0x19a0dd4">
+    <item key="0">  mortgage by either mers, mort%elec%syst, or m_e_r_s </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;mers&quot;,&quot;mort%elec%syst&quot;,&quot;m_e_r_s&quot;]},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="ea6d204a">
+   <arrayref memory_address="0x19a0e10">
+    <item key="0">  purchase to lefkowitz </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;lefkowitz&quot;]},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="f1671ce6">
+   <arrayref memory_address="0x19a0e4c">
+    <item key="0">  mortgage  on properties with 1 to 4 Units residential units</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:{&quot;unitsres&quot;:[&quot;1&quot;,&quot;4&quot;]},&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="f17a1ceb">
+   <arrayref memory_address="0x19a0e88">
+    <item key="0">  purchase  on properties with 1 to 4 Units residential units</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:{&quot;unitsres&quot;:[&quot;1&quot;,&quot;4&quot;]},&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="f4401ed1">
+   <arrayref memory_address="0x19a0ec4">
+    <item key="0">  purchase from --------- </item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{&quot;from&quot;:[&quot;list&quot;,&quot;---------&quot;]},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="f64f2bf4">
+   <arrayref memory_address="0x19a0f00">
+    <item key="0">  mortgage , then   foreclosure  within 2 years</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[1,&quot;730&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;foreclosure&quot;}],&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;mortgage&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="f7962bfc">
+   <arrayref memory_address="0x19a0f3c">
+    <item key="0">  purchase , then   foreclosure  within 1 years</item>
+    <item key="1">{&quot;then&quot;:[{&quot;after&quot;:[0,&quot;365&quot;],&quot;values&quot;:{},&quot;type&quot;:&quot;foreclosure&quot;}],&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:null,&quot;values&quot;:{},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+  <item key="f9882537">
+   <arrayref memory_address="0x19a0f78">
+    <item key="0">  purchase to columbia%univ  on properties with All Manufacturing zoning</item>
+    <item key="1">{&quot;dataType&quot;:&quot;sumSum&quot;,&quot;lotValues&quot;:{&quot;zoning&quot;:[&quot;M&quot;]},&quot;values&quot;:{&quot;to&quot;:[&quot;list&quot;,&quot;columbia%univ&quot;]},&quot;type&quot;:&quot;purchase&quot;}</item>
+   </arrayref>
+  </item>
+ </hashref>
+</perldata>
