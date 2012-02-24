@@ -13,4 +13,4 @@ mkdir -p graphs/tmp
 mkdir -p ../sites/overlays/tmp/tract
 rm -f overlays/tmp/tract/*
 rm -f graphs/tmp/tract/*
-rm -f ../sites/overlays/tmp/tract/*
+rm -f ../site/overlays/tmp/tract/*
