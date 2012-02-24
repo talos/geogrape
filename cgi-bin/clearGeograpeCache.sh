@@ -1,16 +1,16 @@
-mkdir -i pieCharts/tmp
+mkdir -p pieCharts/tmp
 rm -f pieCharts/tmp/*
 
-mkdir -i overlays/tmp/city
-mkdir -i graphs/tmp
-mkdir -i ../sites/overlays/tmp/city
+mkdir -p overlays/tmp/city
+mkdir -p graphs/tmp
+mkdir -p ../sites/overlays/tmp/city
 rm -f overlays/tmp/city/*
 rm -f graphs/tmp/city/*
 rm -f ../sites/overlays/tmp/city/*
 
-mkdir -i overlays/tmp/tract
-mkdir -i graphs/tmp
-mkdir -i ../sites/overlays/tmp/tract
+mkdir -p overlays/tmp/tract
+mkdir -p graphs/tmp
+mkdir -p ../sites/overlays/tmp/tract
 rm -f overlays/tmp/tract/*
 rm -f graphs/tmp/tract/*
 rm -f ../sites/overlays/tmp/tract/*
